@@ -1,6 +1,6 @@
 # 🎮 Game Project (React + Phaser)
 
-A professional multi-level web game built using **React** and **Phaser 3**, where each level offers a unique logic-based or interactive challenge.
+A multi-level web game built using **React** and **Phaser 3**, where each level offers a unique logic-based or interactive challenge.
 
 ---
 
