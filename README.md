@@ -1,33 +1,51 @@
-# 🎮 Game Project
+# 🎮 Game Project (React + Phaser)
 
-This is a simple and interactive **game application built with React.js**.  
-The project focuses on clean UI, smooth user experience, and practical use of React concepts.
-
-I built this project to improve my front-end development skills and to better understand how real React applications are structured.
+A professional multi-level web game built using **React** and **Phaser 3**, where each level offers a unique logic-based or interactive challenge.
 
 ---
 
-## 🌟 What this project includes
+## 🚀 Features
 
-- Interactive gameplay
-- Login and signup functionality
-- Clean and responsive user interface
-- Sound effects for better experience
-- Component-based React structure
+- Five uniquely designed game levels
+- Puzzle, memory, logic, and strategy-based gameplay
+- Clean and professional UI
+- Smooth level transitions
+- Full-screen responsive gameplay
+- Sound effects and interactive controls
 
 ---
 
-## 🛠 Tech used
+## 🛠️ Tech Stack
 
-- React.js
+- React
+- Phaser 3
 - JavaScript (ES6)
+- HTML5 Canvas
 - CSS
-- React Router
-- Git & GitHub
 
 ---
 
+## 🎯 Game Levels
 
+- **Level 1 – Puzzle Game**  
+  A logic-based puzzle to test problem-solving skills.
 
+- **Level 2 – Memory Game**  
+  Match cards by remembering their positions.
 
+- **Level 3 – Code Question Game**  
+  Answer programming-related questions to proceed.
 
+- **Level 4 – Tic Tac Toe Game**  
+  Classic tic-tac-toe game against the computer.
+
+- **Level 5 – Sliding Puzzle Game**  
+  Arrange tiles in the correct order to complete the puzzle.
+
+---
+
+## ▶️ How to Run Locally
+
+```bash
+npm install
+npm start
