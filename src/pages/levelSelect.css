@@ -1,0 +1,41 @@
+.levels-container {
+  min-height: 100vh;
+  background: radial-gradient(circle, #0f2027, #000);
+  color: #00ffcc;
+  text-align: center;
+  padding: 40px;
+}
+
+.levels-title {
+  font-size: 3rem;
+  margin-bottom: 40px;
+  text-shadow: 0 0 10px #00ffcc;
+}
+
+.levels-grid {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.level-card {
+  width: 220px;
+  height: 140px;
+  border: 2px solid #00ffcc;
+  border-radius: 12px;
+  cursor: pointer;
+  padding: 20px;
+  transition: all 0.3s ease;
+  background: rgba(0, 255, 204, 0.05);
+}
+
+.level-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 25px #00ffcc;
+  background: rgba(0, 255, 204, 0.15);
+}
+
+.level-card h2 {
+  margin: 0;
+}

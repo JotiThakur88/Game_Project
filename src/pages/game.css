@@ -1,0 +1,66 @@
+.game-screen {
+  background: radial-gradient(circle, #000 40%, #020b0f);
+  color: #00ffcc;
+  min-height: 100vh;
+  font-family: monospace;
+  padding: 20px;
+}
+
+/* HUD */
+.hud {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #00ffcc;
+  padding: 10px;
+}
+
+/* TRACE */
+.trace-bar {
+  color: red;
+}
+
+/* TERMINAL */
+.terminal {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #00ffcc;
+  height: 200px;
+  overflow-y: auto;
+  background: rgba(0,0,0,0.6);
+}
+
+/* INPUT */
+.input-panel {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+input {
+  padding: 10px;
+  background: black;
+  border: 1px solid #00ffcc;
+  color: white;
+}
+
+button {
+  padding: 10px 15px;
+  background: #00ffcc;
+  border: none;
+  cursor: pointer;
+}
+
+/* STATUS */
+.status {
+  margin-top: 15px;
+  text-align: center;
+}
+
+/* NEXT */
+.next-btn {
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
