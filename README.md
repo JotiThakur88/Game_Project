@@ -1,6 +1,6 @@
 # 🎮 Game Project – Puzzle Game System
 
-## 📌 Overview
+##  Overview
 Game Project is a web-based interactive puzzle game built using React.js.  
 It is designed as a final-year academic project to demonstrate frontend development skills, UI design, and game logic implementation.
 
@@ -8,12 +8,12 @@ The game provides multiple puzzle challenges with levels, scoring system, and re
 
 ---
 
-## 🎯 Objective
+##  Objective
 The main objective of this project is to develop an engaging and educational gaming platform that improves logical thinking, problem-solving ability, and user interaction through puzzle-based gameplay.
 
 ---
 
-## ✨ Features
+##  Features
 - 🧩 Multiple puzzle challenges  
 - 🎯 Level-based progression system  
 - ⚡ Interactive gameplay experience  
@@ -27,28 +27,12 @@ The main objective of this project is to develop an engaging and educational gam
 - React.js  
 - JavaScript (ES6+)  
 - HTML5  
-- CSS3  
+- CSS3
+- node js
+- express js
+- npm  
 
 ---
-
-## 📁 Project StructureGame Project/
-├── frontend (React App)
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   └── README.md
-│
-├── backend (Node.js / Express)
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   └── .env
-│
-<<<<<<< HEAD
 └── README.md
 =======
 └── README.md
