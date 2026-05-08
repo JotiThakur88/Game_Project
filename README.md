@@ -33,7 +33,3 @@ The main objective of this project is to develop an engaging and educational gam
 - npm  
 
 ---
-└── README.md
-=======
-└── README.md
->>>>>>> e2c9291bc96d90bca62a726349059995ee7300d2
